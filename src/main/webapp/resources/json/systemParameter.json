@@ -1,0 +1,14 @@
+{
+	"cmsName": "ssm后台管理",
+	"version": "v1.0",
+	"author": "YLW",
+	"homePage": "index.html",
+	"server": "windows",
+	"dataBase": "5.7.29",
+	"maxUpload": "2M",
+	"userRights": "超级管理员",
+	"description": "bjpowernode",
+	"powerby": "copyright @2022 YLW",
+	"record": "苏ICP备888xxx号-1",
+	"keywords": "YLW"
+}
